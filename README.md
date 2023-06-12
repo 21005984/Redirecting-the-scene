@@ -62,14 +62,13 @@ public class CubeProg : MonoBehaviour
 ~~~
 ## Output:
 ## Scene 1:
-![image](https://github.com/21005984/Redirecting-the-scene/assets/94748389/fa11a8df-de4a-4901-aac6-1f34c255c7fc)
+![e1](https://github.com/21005984/Redirecting-the-scene/assets/94748389/6bb8e45c-69f3-440e-8e39-7d515bda6119)
 
 ## After the bal hits the cube
-![image](https://github.com/21005984/Redirecting-the-scene/assets/94748389/6cf347aa-29e0-4de3-a9ca-6bc4ccdce79f)
+![e2](https://github.com/21005984/Redirecting-the-scene/assets/94748389/efebc4ad-f92d-49ea-8fe6-d7fa5068fd3d)
 
 ## Redirected to scene 2:
-![image](https://github.com/21005984/Redirecting-the-scene/assets/94748389/778096a6-fce4-4bfe-ae3a-c0c0c1b18696)
-
+![e3](https://github.com/21005984/Redirecting-the-scene/assets/94748389/7885a297-e22b-465f-b2c8-ea59e12c2f90)
 
 ## Result:
 The above C# coding is successfully redirecting the scene in the unity engine.
