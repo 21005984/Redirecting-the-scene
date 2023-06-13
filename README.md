@@ -1,7 +1,7 @@
 # Redirecting-the-scene
 
 ## Aim:
-To Redirect the scene in the unity engine.
+ To Redirect the scene in the unity engine.
 ## Algorithm:
 ### Step 1 :
 To open the unity engine.
